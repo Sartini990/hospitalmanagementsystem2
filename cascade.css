@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+wrapper {font-family:Verdana, Geneva, sans-serif; font-size:12px; font-weight:normal;}
+.navigation{
+	background-color:#999;
+	width: 16%;
+	font-size: 18px;
+	background-repeat: no-repeat;
+	height: 30px;
+}
+.border{
+	border-radius:15px;
+}
+.login{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:16px;
+	color:#636;
+}
+.logo{
+	background-image: url(logo.jpg);
+	background-repeat: no-repeat;
+	text-align: right;
+	font-weight: bold;
+	font-size: 18px;
+}
+.title{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-style: normal;
+	color: #666;
+	text-wrap: normal;
+	font-weight: bolder;
+	text-align: left;
+}
+.banner{
+	height:150px;
+	width:100%;
+}
+.body1{
+	height:100px;
+	width:45px;
+	float:left;
+}
+.body2{
+	height:100px;
+	width:45px;
+	float:right;
+}
+.body_info{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:justify;
+}
+.heading{
+	font-size: 20px;
+	color: #333;
+}
+.text{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:justify;
+}
+.footer{
+	background-color: #999;
+	background-image:
+	width:100%;
+	height:20px;
+}
+
+.emri {
+	font-weight: bold;
+	font-size: 18px;
+}
+#border2{
+	border-radius:15px;
+}
+#menutable{
+	border-radius: 6px;
+	color: black;
+	font-weight: bold;
+	font-size: 16px;
+}
+a:hover {
+	background-color:#0C9;
+	border-radius:8px;
+	
+	}
+.sh{
+	color: #990000;
+	font-size: 20px;
+}
+.list{
+	color:#000;
+	font-size:20px;
+}
+.sideheading
+{
+	color:#900;
+	font-size:18px;
+}
+.subside
+{
+	color:#06F;
+	font-size:16px;
+}
+.matter
+{
+	color:#666;
+	font-size:14px;
+}
+	.tit{
+		color:#666;
+		font-size:24px;
+	}
