@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.title{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:24px;
+	font-style:normal;
+	color:#333;
+	text-wrap:normal;
+	font-weight:bolder;
+	text-align:left;
+}
